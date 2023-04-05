@@ -4,6 +4,8 @@
 
 This will provide reader and writer for `Registry.pol` file format: [Registry Policy File Format | Microsoft Learn](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/policy/registry-policy-file-format)
 
+Links: [Doxygen](https://hiraokahypertools.github.io/LibEditRegistryPol/html/)
+
 ## Reader sample
 
 ```cs
