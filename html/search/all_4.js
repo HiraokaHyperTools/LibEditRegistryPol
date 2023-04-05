@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['read_4',['Read',['../class_lib_edit_registry_pol_1_1_registry_pol.html#a39c004a3f88b9799fa7306d137c47fec',1,'LibEditRegistryPol::RegistryPol']]],
+  ['readme_2emd_5',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['reg_5fbinary_6',['REG_BINARY',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#a5f5bd20c450e902acddd548fbdfbac61',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fdword_7',['REG_DWORD',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#a27218bb0932e8ed432c47c03e31f1cc0',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fdword_5fbig_5fendian_8',['REG_DWORD_BIG_ENDIAN',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#aaaed3a631d6c235bb85e44fdbdaa6a12',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fdword_5flittle_5fendian_9',['REG_DWORD_LITTLE_ENDIAN',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#a453c82ba45c961cd5731e90d61b95baf',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fexpand_5fsz_10',['REG_EXPAND_SZ',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#a149910f324a89f34ee6892194e45a697',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5ffull_5fresource_5fdescriptor_11',['REG_FULL_RESOURCE_DESCRIPTOR',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#af5fa567c5b780467b59ce932165060a4',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5flink_12',['REG_LINK',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#a6b5239cb5f9d91cbab334b7c812e060c',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fmulti_5fsz_13',['REG_MULTI_SZ',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#a0096ab34729f2c6566c8a1a3e91ab7dc',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fnone_14',['REG_NONE',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#ab6c1ae28b937f3c3ea812fae26b244cb',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fqword_15',['REG_QWORD',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#aa0cd545fa140c17dd9f1e0f2bbf807e4',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fqword_5flittle_5fendian_16',['REG_QWORD_LITTLE_ENDIAN',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#af4e18812c05e48646ec4b1d02c5313dd',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fresource_5flist_17',['REG_RESOURCE_LIST',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#ae509286665a4c6615a329773d044038a',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fresource_5frequirements_5flist_18',['REG_RESOURCE_REQUIREMENTS_LIST',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#a35208ddcdb674abf2753b0478123cfad',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['reg_5fsz_19',['REG_SZ',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#a0babbfbb39e941ede7c866e593d7a34b',1,'LibEditRegistryPol::RegistryPolEntry']]],
+  ['regfile_5fsignature_20',['REGFILE_SIGNATURE',['../class_lib_edit_registry_pol_1_1_registry_pol.html#a53bb72df598d2d1c87ca9c699e10c2e9',1,'LibEditRegistryPol::RegistryPol']]],
+  ['registry_5ffile_5fversion_21',['REGISTRY_FILE_VERSION',['../class_lib_edit_registry_pol_1_1_registry_pol.html#a331f5b99220dbff3eec19610787160a3',1,'LibEditRegistryPol::RegistryPol']]],
+  ['registrypol_22',['RegistryPol',['../class_lib_edit_registry_pol_1_1_registry_pol.html',1,'LibEditRegistryPol']]],
+  ['registrypol_2ecs_23',['RegistryPol.cs',['../_registry_pol_8cs.html',1,'']]],
+  ['registrypolentry_24',['RegistryPolEntry',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html',1,'LibEditRegistryPol']]],
+  ['registrypolentry_2ecs_25',['RegistryPolEntry.cs',['../_registry_pol_entry_8cs.html',1,'']]]
+];
