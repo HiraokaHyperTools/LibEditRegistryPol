@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hiraokahypertools_2elibeditregistrypol_57',['HiraokaHyperTools.LibEditRegistryPol',['../index.html',1,'']]]
+  ['hiraokahypertools_2elibeditregistrypol_87',['HiraokaHyperTools.LibEditRegistryPol',['../index.html',1,'']]]
 ];

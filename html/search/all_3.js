@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['libeditregistrypol_3',['LibEditRegistryPol',['../namespace_lib_edit_registry_pol.html',1,'']]]
+  ['gethashcode_6',['GetHashCode',['../class_lib_edit_registry_pol_1_1_registry_pol_entry.html#acd1cc100f4210e9419987f8fa226f862',1,'LibEditRegistryPol::RegistryPolEntry']]]
 ];
