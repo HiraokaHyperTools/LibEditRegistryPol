@@ -4,7 +4,7 @@
     <TargetFramework>netstandard1.1</TargetFramework>
     
     <PackageId>HiraokaHyperTools.LibEditRegistryPol</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.2.0</Version>
     <Authors>kenjiuno</Authors>
     <Company>HiraokaHyperTools</Company>
     <Copyright>(c) 2023 HiraokaHyperTools, inc.</Copyright>

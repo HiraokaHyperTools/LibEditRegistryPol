@@ -6,7 +6,7 @@ using System.Text;
 namespace LibEditRegistryPol
 {
     [DebuggerDisplay("[{Key},{Value},{Type},{Data}]")]
-    public class RegistryPolEntry
+    public class RegistryPolEntry : IComparable<RegistryPolEntry>
     {
         /// <summary>
         /// Path to the registry key
@@ -118,5 +118,25 @@ namespace LibEditRegistryPol
         /// </summary>
         public const int REG_QWORD_LITTLE_ENDIAN = (11);
         #endregion
+
+        int IComparable<RegistryPolEntry>.CompareTo(RegistryPolEntry other) => CompareToCore(other);
+
+        private int CompareToCore(RegistryPolEntry other)
+        {
+            int d;
+            if (false
+                || (d = RegistryPolHelper.CompareName(Key, other.Key)) != 0
+                || (d = RegistryPolHelper.CompareName(Value, other.Value)) != 0
+                || (d = Type.CompareTo(other.Type)) != 0
+                || (d = RegistryPolHelper.CompareBytes(Data, other.Data)) != 0
+            )
+            {
+                // nop
+            }
+            return d;
+        }
+
+        public override bool Equals(object obj) => CompareToCore((RegistryPolEntry)obj) == 0;
+        public override int GetHashCode() => new { Key, Value, Type, Data, }.GetHashCode();
     }
 }
